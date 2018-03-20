@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "479831963360",
+    "firebase_url": "https://stcfirebase.firebaseio.com",
+    "project_id": "stcfirebase",
+    "storage_bucket": "stcfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479831963360:android:807da0ed421150ac",
+        "android_client_info": {
+          "package_name": "com.example.thiqah.stc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479831963360-cnkdg9hiveom8p58ti5jp3hl6p3ss1te.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvS_5p5cA5KBokUZERkDsGxXWgCxmaSfc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
